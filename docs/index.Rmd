@@ -386,4 +386,4 @@ pHeat
 ### 1.4 References
 </div>
 
-Loughran, A.J., Orihuela, C.J., and Tuomanen, E.I. (2018) Streptococcus pneumoniae: Invasion and Inflammation. Microbiol Spectr 7: GPP3-0004–2018.
+Loughran, A.J., Orihuela, C.J., and Tuomanen, E.I. (2018) *Streptococcus pneumoniae*: Invasion and Inflammation. *Microbiol Spectr* **7:** GPP3-0004–2018.
