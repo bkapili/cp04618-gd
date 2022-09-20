@@ -373,7 +373,7 @@ pHeat
 <br><br>
 
 <div class="highlight">
-### 1.3 Notable microbes detected
+### 1.3 Notable microbe detected
 </div>
 
 * *Streptococcus pneumoniae*:
